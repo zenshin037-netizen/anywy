@@ -1,2 +1,1 @@
-# anywy
-ifrofjrjd
+#include<stdio.h>
